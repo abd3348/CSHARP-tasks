@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace task3
 {
     internal class Program
     {
@@ -169,6 +169,6 @@ namespace ConsoleApp1
 
 
 
-    }
+        }
     }
 }
