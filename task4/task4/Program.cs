@@ -11,15 +11,12 @@ namespace task4
     {
         static void Main(string[] args)
         {
-            Student s1 = new Student("Sara", 20,33.3);
-            Student s2 = new Student("Ahmad", 22,55.5);
-            Student s3 = new Student("Lina", 19,64.3);
-
-            s1.DisplayInfo();
-
-            s2.DisplayInfo();
-
-            s3.DisplayInfo();
+            Student stu1 = new Student("abdallah", 22, 99);
+            Student stu2 = new Student("ahmad", 24, 97.9);
+            Student stu3 = new Student("omar", 22, 89.3);
+            stu1.DisplayInfo();
+            stu2.DisplayInfo();
+            stu3.DisplayInfo();
         }
     }
 }

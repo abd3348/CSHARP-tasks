@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C#\\C-tasks\\task4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FD3D35B-492D-401D-86AA-6437D3A0ED1E}|task4\\task4.csproj|c:\\users\\user\\desktop\\c#\\c-tasks\\task4\\task4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FD3D35B-492D-401D-86AA-6437D3A0ED1E}|task4\\task4.csproj|solutionrelative:task4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FD3D35B-492D-401D-86AA-6437D3A0ED1E}|task4\\task4.csproj|C:\\Users\\user\\Desktop\\C#\\C-tasks\\task4\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD3D35B-492D-401D-86AA-6437D3A0ED1E}|task4\\task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FD3D35B-492D-401D-86AA-6437D3A0ED1E}|task4\\task4.csproj|c:\\users\\user\\desktop\\c#\\c-tasks\\task4\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FD3D35B-492D-401D-86AA-6437D3A0ED1E}|task4\\task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FD3D35B-492D-401D-86AA-6437D3A0ED1E}|task4\\task4.csproj|c:\\users\\user\\desktop\\c#\\c-tasks\\task4\\task4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD3D35B-492D-401D-86AA-6437D3A0ED1E}|task4\\task4.csproj|solutionrelative:task4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\C-tasks\\task4\\task4\\Student.cs",
               "RelativeDocumentMoniker": "task4\\Student.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\C#\\C-tasks\\task4\\task4\\Student.cs",
               "RelativeToolTip": "task4\\Student.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T07:15:28.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\C-tasks\\task4\\task4\\Program.cs",
               "RelativeDocumentMoniker": "task4\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\C#\\C-tasks\\task4\\task4\\Program.cs",
               "RelativeToolTip": "task4\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T06:58:46.671Z",
               "EditorCaption": ""

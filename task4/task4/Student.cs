@@ -10,23 +10,21 @@ namespace task4
     {
         public string name;
         public int age;
-
         public double grade;
 
-        public Student(string studentName, int studentAge, double studentGrade)
+        public Student(string name, int age, double grade)
         {
-            name = studentName;
-            age = studentAge;
-            grade = studentGrade;
+            this.name = name;
+            this.age = age;
+            this.grade = grade;
         }
 
         public void DisplayInfo()
         {
-            Console.WriteLine("Name: " + name);
-            Console.WriteLine("Age: " + age);
+            Console.WriteLine("name: " + name);
+            Console.WriteLine("age: " + age);
             Console.WriteLine("grade: " + grade);
-
-            Console.WriteLine("----------");
+            Console.WriteLine("-----------------");
         }
     }
 }
