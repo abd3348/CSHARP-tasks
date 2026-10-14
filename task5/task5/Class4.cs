@@ -15,6 +15,7 @@ namespace task5
             ReportTitle = reportTitle;
         }
 
+
         public void DisplayReportTitle()
         {
             Console.WriteLine($"Report Title: {ReportTitle}");

@@ -1,0 +1,57 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace task6
+{
+    class HealthPotion : ICollectible
+    {
+        public string PotionName { get; set; }
+
+        public HealthPotion(string potionName)
+        {
+            PotionName = potionName;
+        }
+
+        public void Collect()
+        {
+            Console.WriteLine(
+                PotionName + " collected!"
+            );
+        }
+
+        public void Use(
+            GameCharacter character,
+            string amountText)
+        {
+            try
+            {
+                int amount = Convert.ToInt32(amountText);
+
+                if (amount < 0)
+                {
+                    Console.WriteLine(
+                        "Healing amount cannot be negative."
+                    );
+                    return;
+                }
+
+                character.Heal(amount);
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine(
+                    "Invalid input! Please enter a number."
+                );
+            }
+            catch (OverflowException)
+            {
+                Console.WriteLine(
+                    "Invalid input! Number is too large."
+                );
+            }
+        }
+    }
+}
